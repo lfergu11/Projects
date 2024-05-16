@@ -1,7 +1,7 @@
 # Laura Ferguson Data Scientist Portfolio
 Welcome to by portfolio! This repository contains some projects that I have exectued. Please feel free to look around and let me know if you have any questions!
 
-# [Rideshare Analysis (SQL & Python)] ()
+# [Rideshare Analysis (SQL & Python)] (https://github.com/lfergu11/Projects/tree/main/Rideshare%20Analysis)
 * Parsed data from website to obtain Chicago weather in November of 2017.
 * Explored the data through queries in SQL, results were saved as .csv to be further explored in Python. 
 * Used EDA to understand passenger preferences and the impact of external factors on rides such as weather.
