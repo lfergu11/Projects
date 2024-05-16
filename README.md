@@ -1,6 +1,12 @@
 # Laura Ferguson Data Scientist Portfolio
 Welcome to by portfolio! This repository contains some projects that I have exectued. Please feel free to look around and let me know if you have any questions!
 
+# [Rideshare Analysis (SQL & Python)] ()
+* Parsed data from website to obtain Chicago weather in November of 2017.
+* Explored the data through queries in SQL, results were saved as .csv to be further explored in Python. 
+* Used EDA to understand passenger preferences and the impact of external factors on rides such as weather.
+* Test hypotheses on whether the average duration of rides from the Loop to O'Hare neighborhoods differs on rainy Saturdays.
+
 # [Sweet Lift Taxi Time Series Forecasting (Time Series ML)] (https://github.com/lfergu11/Projects/tree/main/Sweet%20Lift%20Taxi%20Time%20Series%20Forecasting)
 * Resampled historical data to change the time interval of the series to fit the model training.
 * Applied exploratory data analysis and statistical decomposition to recognize trends and seasonality in the data. 

@@ -1,3 +1,5 @@
 
 *.csv
 *.DS_Store
+*.db
+/Forecasting Churn of Customers/catboost_info
