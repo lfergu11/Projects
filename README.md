@@ -7,6 +7,14 @@ Welcome to by portfolio! This repository contains some projects that I have exec
 * Used EDA to understand passenger preferences and the impact of external factors on rides such as weather.
 * Test hypotheses on whether the average duration of rides from the Loop to O'Hare neighborhoods differs on rainy Saturdays.
 
+# [Data Science Jobs Salaries (EDA, SDA & ML)] (https://github.com/lfergu11/Projects/tree/main/Data%20Science%20Salaries)
+Analyzed compensation data for data science related jobs in the US from 2020 to 2023. Used this data to create a machine learning model to predict the salary amount for a data science based role based on job title, company size, and expertise level. 
+* Preprocessed data and performed exploratory data analysis
+* Performed statistical testing to determine impact of features on salary distributions
+* Used encoding & scaling methods to improve trainign of the machine learning models
+* Machine learning models created includes Linear Regression, Random Forest Regressor, LGBMRegressor and CatBoostRegressor
+* Utilized GridSearchCV to tune hyperparameters to optimize quality of model. 
+
 # [Sweet Lift Taxi Time Series Forecasting (Time Series ML)] (https://github.com/lfergu11/Projects/tree/main/Sweet%20Lift%20Taxi%20Time%20Series%20Forecasting)
 * Resampled historical data to change the time interval of the series to fit the model training.
 * Applied exploratory data analysis and statistical decomposition to recognize trends and seasonality in the data. 
