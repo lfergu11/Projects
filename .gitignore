@@ -4,3 +4,5 @@
 *.db
 /Forecasting Churn of Customers/catboost_info
 /SF Salaries/
+/Mobile User Classification Model/
+

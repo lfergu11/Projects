@@ -27,7 +27,14 @@ Analyzed compensation data for data science related jobs in the US from 2020 to 
 * Used GridSearchCV to tune hyperparameters for the Random Forest Classifier.
 * By sending the predicted churning customers promotions, assuming a typica rate of conversion this model will reduce churn by 325
 
-# [Megaline Plans Revenue Analysis (EDA & SDA)] (https://github.com/lfergu11/Projects/tree/main/Megaline%20Plans%20Revenue%20Analysis)
+# [Video Game Sales (EDA & Statistical Testing)] (https://github.com/lfergu11/Projects/tree/main/Video%20Game%20Sales)
+In this project, I worked with a video games sales dataset. This dataset consists of user and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales that are from open sources. The dataset also contains ESRB (Entertainment Sofrware Rating Board) age ratings, which are based on a game's content. I analyzed this data to identify patterns that determine whether a game succeeds or not. This analysis will be used to spot potential big winners and plan advertising campaigns based on these findings.
+* Preprocessed the data to prep for analysis
+* Conducted feature engineering to prep for analysis
+* Performed Exploratory Data Analysis to identify patterns and trends in the sales data, including analyzing the trends for the different regions
+* Conducted statistical testing to see if the user ratings for different platforms or different genres
+
+# [Megaline Plans Revenue Analysis (EDA & Statistical Testing)] (https://github.com/lfergu11/Projects/tree/main/Megaline%20Plans%20Revenue%20Analysis)
 Worked as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. 
 * Preprocessed data to prep for analysis
 * Conducted feature engineering to create for features for analysis
