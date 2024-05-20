@@ -27,6 +27,14 @@ Analyzed compensation data for data science related jobs in the US from 2020 to 
 * Used GridSearchCV to tune hyperparameters for the Random Forest Classifier.
 * By sending the predicted churning customers promotions, assuming a typica rate of conversion this model will reduce churn by 325
 
+# [Megaline Plans Revenue Analysis (EDA & SDA)] (https://github.com/lfergu11/Projects/tree/main/Megaline%20Plans%20Revenue%20Analysis)
+Worked as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. 
+* Preprocessed data to prep for analysis
+* Conducted feature engineering to create for features for analysis
+* Aggreagated data to determine total usage and revenue per user
+* Performed exploratory data analysis to analyze customer behavior
+* Performed hypothesis testing to determine what plan brins in more revenue
+
 # [Instacart Shopper Behavior (EDA)] (https://github.com/lfergu11/Projects/tree/main/Instacart%20Shopper%20Behavior)
 Conducted Analysis on shoppers from Instacart in 2017. The goal of the analysis was to find which products are most popular, the days and hours of the week that people tend to order, the distribution of the number of orders per customer, and the proportion of reorders for products. 
 * Preprocessed the data to prepare for analysis
