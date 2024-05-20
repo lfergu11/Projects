@@ -1,4 +1,4 @@
-# Laura Ferguson Data Scientist Portfolio
+# Portfolio - Laura Ferguson
 Welcome to by portfolio! This repository contains some projects that I have exectued. Please feel free to look around and let me know if you have any questions!
 
 # [Rideshare Analysis (SQL & Python)] (https://github.com/lfergu11/Projects/tree/main/Rideshare%20Analysis)
@@ -11,7 +11,7 @@ Welcome to by portfolio! This repository contains some projects that I have exec
 Analyzed compensation data for data science related jobs in the US from 2020 to 2023. Used this data to create a machine learning model to predict the salary amount for a data science based role based on job title, company size, and expertise level. 
 * Preprocessed data and performed exploratory data analysis
 * Performed statistical testing to determine impact of features on salary distributions
-* Used encoding & scaling methods to improve trainign of the machine learning models
+* Used encoding & scaling methods to improve training of the machine learning models
 * Machine learning models created includes Linear Regression, Random Forest Regressor, LGBMRegressor and CatBoostRegressor
 * Utilized GridSearchCV to tune hyperparameters to optimize quality of model. 
 
@@ -26,6 +26,11 @@ Analyzed compensation data for data science related jobs in the US from 2020 to 
 * Created machine learning models, including Logistic Regression, Random Forest Classifier, KNeightborsClassifier, and CatBoost Classifier that predicted which customers were at risk of leaving the telecommunications company.
 * Used GridSearchCV to tune hyperparameters for the Random Forest Classifier.
 * By sending the predicted churning customers promotions, assuming a typica rate of conversion this model will reduce churn by 325
+
+# [Instacart Shopper Behavior (EDA)] (https://github.com/lfergu11/Projects/tree/main/Instacart%20Shopper%20Behavior)
+Conducted Analysis on shoppers from Instacart in 2017. The goal of the analysis was to find which products are most popular, the days and hours of the week that people tend to order, the distribution of the number of orders per customer, and the proportion of reorders for products. 
+* Preprocessed the data to prepare for analysis
+* Utilized Exploratory Data Analysis to analyze the behavior of instacart shoppers
 
 # [Golden Age of Television (EDA)] (https://github.com/lfergu11/Projects/tree/main/Golden%20Age%20of%20Television)
 * Cleaned and reviewed data to prepare for analysis
