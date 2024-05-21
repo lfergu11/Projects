@@ -35,15 +35,14 @@ In this project, I worked with a video games sales dataset. This dataset consist
 * Conducted statistical testing to see if the user ratings for different platforms or different genres
 
 # [Megaline Plans Revenue Analysis (EDA & Statistical Testing)] (https://github.com/lfergu11/Projects/tree/main/Megaline%20Plans%20Revenue%20Analysis)
-Worked as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. 
-* Preprocessed data to prep for analysis
-* Conducted feature engineering to create for features for analysis
-* Aggreagated data to determine total usage and revenue per user
-* Performed exploratory data analysis to analyze customer behavior
-* Performed hypothesis testing to determine what plan brins in more revenue
+Conducted analysis for a telecom operator. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. 
+* Preprocessed data & conducted feature engineering to prep for analysis
+* Aggregated data to determine total usage and revenue per client
+* Performed exploratory data analysis to identify trends in client behavior
+* Utilized statistical testing to determine what plan brings in more revenue
 
 # [Instacart Shopper Behavior (EDA)] (https://github.com/lfergu11/Projects/tree/main/Instacart%20Shopper%20Behavior)
-Conducted Analysis on shoppers from Instacart in 2017. The goal of the analysis was to find which products are most popular, the days and hours of the week that people tend to order, the distribution of the number of orders per customer, and the proportion of reorders for products. 
+Conducted analysis on shoppers from Instacart in 2017. The goal of the analysis was to find which products are most popular, the days and hours of the week that people tend to order, the distribution of the number of orders per customer, and the proportion of reorders for products. 
 * Preprocessed the data to prepare for analysis
 * Utilized Exploratory Data Analysis to analyze the behavior of instacart shoppers
 
