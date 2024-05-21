@@ -4,6 +4,11 @@
 *.db
 /Forecasting Churn of Customers/catboost_info
 /SF Salaries/
-/Mobile User Classification Model/
 /Oil Well Volume Prediction Model/
-
+/Mobile User Classification Model/
+/Gold Ore Recovery Model/
+/Insurance Company Customer Models/
+/Car Value Regression Model/
+/Movie Review Sentiment Classification/
+/Computer Vision Age Regression Model/
+/Company Financial Analysis/
