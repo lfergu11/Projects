@@ -12,11 +12,6 @@ On online film forum is developing a system for filtering and categorizing movie
 * Build different machine learning models to detect negative reviews
 * Techniques utilized includes normalization of reviews with digits of punctuation; lemmatization using NLTK and spaCy; creation of features using TF-IDF; and testing various classification algorithms including Logistic Regression, Naive-Bayes, LGBMClassifier and BERT
 
-# [Data Science Jobs Salaries (EDA, Statistical Testing & ML)] (https://github.com/lfergu11/Projects/tree/main/Data%20Science%20Salaries)
-Analyzed compensation data for data science related jobs in the US from 2020 to 2023. Used this data to create a machine learning model to predict the salary amount for a data science based role based on job title, company size, and expertise level. 
-* Preprocessed data and performed exploratory data analysis
-* Performed statistical testing to determine impact of features on salary distributions
-
 # [Taxi Time Series Forecasting (Time Series ML)] (https://github.com/lfergu11/Projects/tree/main/Taxi%20Time%20Series%20Forecasting)
 * Resampled historical data to change the time interval of the series to fit the model training.
 * Applied exploratory data analysis and statistical decomposition to recognize trends and seasonality in the data. 
@@ -29,10 +24,22 @@ Analyzed compensation data for data science related jobs in the US from 2020 to 
 * Used GridSearchCV to tune hyperparameters for the Random Forest Classifier.
 * By sending the predicted churning customers promotions, assuming a typica rate of conversion this model will reduce churn by 325
 
+# [Gold Ore Recovery Model] (https://github.com/lfergu11/Projects/tree/main/Gold%20Ore%20Recovery%20Model)
+Zyfra is a company that develops efficiency solutions for heavy industry. Created a machine learning model for Zyfra to predict the amount of gold recovered from gold ore based on gold extraction and purification data. The model was used to optimize the production and eleiminate unprofitable parameters.
+* Preprocessed the data to ensure recovery calculations were correct
+* Conducted EDA to see the relationship of metal concentrations and the progressive steps of the purification process
+* Utilized statistical testing to examine feed size distributions
+* Created machine learning models, including Linear Regression and Random Forest Regressor to predict the gold ore recovery. 
+
 # [Mobile User Classification Model (ML)] (https://github.com/lfergu11/Projects/tree/main/Mobile%20User%20Classification%20Model)
 *
 *
 *
+
+# [Data Science Jobs Salaries (EDA & Statistical Testing)] (https://github.com/lfergu11/Projects/tree/main/Data%20Science%20Salaries)
+Analyzed compensation data for data science related jobs in the US from 2020 to 2023. Used this data to create a machine learning model to predict the salary amount for a data science based role based on job title, company size, and expertise level. 
+* Preprocessed data and performed exploratory data analysis
+* Performed statistical testing to determine impact of features on salary distributions
 
 # [Video Game Sales (EDA & Statistical Testing)] (https://github.com/lfergu11/Projects/tree/main/Video%20Game%20Sales)
 In this project, I worked with a video games sales dataset. This dataset consists of user and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales that are from open sources. The dataset also contains ESRB (Entertainment Sofrware Rating Board) age ratings, which are based on a game's content. I analyzed this data to identify patterns that determine whether a game succeeds or not. This analysis will be used to spot potential big winners and plan advertising campaigns based on these findings.
